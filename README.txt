@@ -1,4 +1,12 @@
-==================================================================
+++++++++++++++++++Coursera Modifications++++++++++++++++++++++
+The original readme for this dataset is located below. The new information included adds the following:
+-Means and standard deviations extracted for all values.
+-Training and Testing data sets combined into a single data set
+-Activity names replaced with easier-to-read choices for humans
+-Provides the average of each variable for each activity with each subject
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
