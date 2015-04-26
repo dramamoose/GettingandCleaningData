@@ -1,4 +1,10 @@
 ++++++++++++++++++Coursera Modifications++++++++++++++++++++++
+run_analysis.R:
+
+This program loads the UCI HAR Dataset from outside the directory, and cleans up the data set alongside adding useful means for all the information. To run, simply source the file into R. It will run automatically.
+
+
+Final Dataset Information:
 The original readme for this dataset is located below. The new information included adds the following:
 -Means and standard deviations extracted for all values.
 -Training and Testing data sets combined into a single data set
